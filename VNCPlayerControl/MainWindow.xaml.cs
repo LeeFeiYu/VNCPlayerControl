@@ -28,8 +28,6 @@ namespace VNCPlayerControl
         LibVLC _libVLC;
         public MainWindow()
         {
-
-
             InitializeComponent();
             Core.Initialize();
             _libVLC = new LibVLC();
