@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30611.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VNCPlayerControl", "VNCPlayerControl\VNCPlayerControl.csproj", "{462AED09-C50E-4C58-9CF5-44FAA71052CB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{462AED09-C50E-4C58-9CF5-44FAA71052CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{462AED09-C50E-4C58-9CF5-44FAA71052CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{462AED09-C50E-4C58-9CF5-44FAA71052CB}.Debug|x64.ActiveCfg = Debug|x64
+		{462AED09-C50E-4C58-9CF5-44FAA71052CB}.Debug|x64.Build.0 = Debug|x64
+		{462AED09-C50E-4C58-9CF5-44FAA71052CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{462AED09-C50E-4C58-9CF5-44FAA71052CB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{462AED09-C50E-4C58-9CF5-44FAA71052CB}.Release|x64.ActiveCfg = Release|x64
+		{462AED09-C50E-4C58-9CF5-44FAA71052CB}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F144B51E-5A54-43D7-A794-C2643F0630F4}
+	EndGlobalSection
+EndGlobal
